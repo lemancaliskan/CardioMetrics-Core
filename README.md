@@ -8,15 +8,19 @@
 *The application features a modern interface with native support for system themes.*
 <br><img src="https://github.com/user-attachments/assets/2767a64c-49b6-4da9-b17c-cbb079b90c93" width="670" alt="CardioMetrics Dark/Light Mode Switch">
 
-### 🔍 Application Modules (EN/TR)
+### 🔍 Desktop Application (EN/TR)
+
+The standalone version features a localized experience for global and local users.
 
 **ENGLISH UI:**
 <br><img width="670" height="685" alt="image" src="https://github.com/user-attachments/assets/de83e81b-0e34-4841-a060-c9d58731d3bc" />
-<br><img width="670" height="687" alt="image" src="https://github.com/user-attachments/assets/99eb2d58-ce04-4169-bb69-bdf65a73e1ae" />
 
 **TURKISH UI:**
 <br><img width="670" alt="image" src="https://github.com/user-attachments/assets/fac83157-0527-4bae-939b-e8f063c4e4a4" />
-<br><img width="670" alt="image" src="https://github.com/user-attachments/assets/65fb3c5d-669f-4c21-9b2f-ef5833cabd93" />
+
+### 🌐 Web Application (Streamlit):
+A responsive and lightweight web version for instant access from any device.
+<br><img width="670" alt="image" src="https://github.com/user-attachments/assets/db682eb8-3be1-4a86-baae-fbe30c5c6576" />
 
 ---
 ✨ Features
