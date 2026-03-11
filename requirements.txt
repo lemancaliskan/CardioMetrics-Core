@@ -1,0 +1,8 @@
+pandas 
+scikit-learn
+requests
+matplotlib
+seaborn
+customtkinter
+Pillow
+imbalanced-learn
