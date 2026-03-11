@@ -72,7 +72,7 @@ Go to the **[ CardioMetrics Streamlit App](https://cardiometrics-core.streamlit.
 - ***Standalone Executable***
 <br>To run the app without installing Python:
 
-    - Go to the **[Visit the Releases Page](https://github.com/lemancaliskan/CardioMetrics-Core/releases/tag/v2.6)**
+    - Go to the **[Releases Page](https://github.com/lemancaliskan/CardioMetrics-Core/releases/tag/v2.6)**
     - Download the .exe file for your preferred language (CardioMetrics_EN.exe or CardioMetrics_TR.exe)
     - Double-click to run
 
