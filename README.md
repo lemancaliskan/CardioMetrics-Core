@@ -53,14 +53,24 @@ The core engine utilizes machine learning to evaluate cardiovascular risks. Belo
 - **Regulation:** Active clinical sensitivity adjustment for risk assessment.
 
 ---
+🚀 Live Demo (Web Version)
+---
+You can now try the application directly in your browser without any installation:
+Go to the **[ CardioMetrics Streamlit App](https://cardiometrics-core.streamlit.app)**
+
+---
 🛠️ Installation & Usage
 ---
-- ***Standalone Executable (Recommended)***
+
+- ***Cloud Version (Recommended for quick use)***
+  <br>Access the web application instantly: **[ CardioMetrics Streamlit App](https://cardiometrics-core.streamlit.app)**
+  
+- ***Standalone Executable***
 <br>To run the app without installing Python:
 
-     Go to the **[ page](https://github.com/lemancaliskan/CardioMetrics-Core-WApp-Desktop)**
-     <br>Download the .exe file for your preferred language (CardioMetrics_EN.exe or CardioMetrics_TR.exe)
-     <br>Double-click to run
+    - Go to the **[Visit the Releases Page](https://github.com/lemancaliskan/CardioMetrics-Core/releases/tag/v2.6)**
+    - Download the .exe file for your preferred language (CardioMetrics_EN.exe or CardioMetrics_TR.exe)
+    - Double-click to run
 
 - ***For Developers (Source Code)***
 <br>If you want to run the project locally or contribute:
@@ -69,11 +79,21 @@ The core engine utilizes machine learning to evaluate cardiovascular risks. Belo
 # Clone the repository
 git clone https://github.com/lemancaliskan/CardioMetrics-Core-WApp-Desktop.git
 
-# Install dependencies
-pip install -r requirements.txt
+# --- For Desktop (CustomTkinter) ---
+pip install -r requirements-wapp.txt
 
-# Run the application
+# To run the Turkish version:
+cd v_TR
 python main.py
+
+# To run the English version:
+cd v_EN
+python main.py
+
+# --- For Web (Streamlit) ---
+# (Back to root directory)
+pip install -r requirements.txt
+streamlit run web_app.py
 ```
 ---
 🤝 Contributing
