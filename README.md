@@ -81,7 +81,7 @@ Go to the **[ CardioMetrics Streamlit App](https://cardiometrics-core.streamlit.
 
 ```bash
 # Clone the repository
-git clone https://github.com/lemancaliskan/CardioMetrics-Core-WApp-Desktop.git
+git clone https://github.com/lemancaliskan/CardioMetrics-Core.git
 
 # --- For Desktop (CustomTkinter) ---
 pip install -r requirements-wapp.txt
