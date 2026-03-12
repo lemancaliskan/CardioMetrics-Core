@@ -5,12 +5,12 @@
 📺 Demo
 ---
 ### 🎨 Visual Experience
-*The application features a modern interface with native support for system themes.*
+*The application features a dedicated toggle for seamless switching between light and dark modes.*
 <br><img src="https://github.com/user-attachments/assets/2767a64c-49b6-4da9-b17c-cbb079b90c93" width="670" alt="CardioMetrics Dark/Light Mode Switch">
 
 ### 🔍 Desktop Application (EN/TR)
 
-The standalone version features a localized experience for global and local users.
+*Optimized for a 980x666 centered window layout, this standalone application delivers a precision-focused, localized experience through a theme-aware ``CustomTkinter`` UI designed for both global and local users.*
 
 **ENGLISH UI:**
 <br><img width="670" height="685" alt="image" src="https://github.com/user-attachments/assets/de83e81b-0e34-4841-a060-c9d58731d3bc" />
