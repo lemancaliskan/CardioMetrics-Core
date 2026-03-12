@@ -47,6 +47,15 @@ A responsive and lightweight web version for instant access from any device.
 - **Assets Manager:** Handles dynamic asset loading (icons, logos) for a consistent UI experience.
 
 ---
+📊 Data Foundation
+---
+*The intelligence of CardioMetrics is built upon a synthesis of high-quality clinical data:*
+
+**[Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)**: Provides the core clinical metrics including age, sex, chest pain type, resting blood pressure, cholesterol, and more.
+
+The data was pre-processed through a custom pipeline to normalize biometric features and handle categorical variables, ensuring the models remain robust across diverse user profiles.
+
+---
 ## ⚙️ Backend Engine
 The core engine utilizes machine learning to evaluate cardiovascular risks. Below is a snapshot of the model training phase:
 
@@ -99,6 +108,31 @@ python main.py
 pip install -r requirements.txt
 streamlit run web_app.py
 ```
+
+---
+📁 Project Structure
+---
+
+```bash
+CardioMetrics-Core/
+├── 📁 assets/                  # App icons and logos
+├── 📁 v_EN/                    # English Version (Desktop UI)
+│   ├── 📄 main.py
+│   └── 📄 ui_components.py
+├── 📁 v_TR/                    # Turkish Version (Desktop UI)
+│   ├── 📄 main.py
+│   └── 📄 ui_components.py
+├── 📄 web_app.py               # Web Application (Streamlit Implementation)
+├── 📄 engine.py                # Core ML Logic
+└── 📄 assets_manager.py        # Asset & Color Management
+├── 📄 heart.csv/               # CSV dataset
+├── 📜 requirements.txt         # Web/Streamlit requirements
+└── 📜 requirements-wapp.txt    # Desktop App requirements
+├── ⚙️ .gitignore               # Files to be ignored by Git
+├── 📖 README.md                # Project documentation
+└── ⚖️ LICENSE                  # License information
+```
+
 ---
 🤝 Contributing
 ---
