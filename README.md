@@ -1,6 +1,11 @@
 # ❤️ CardioMetrics Core - Cardiovascular Risk Analysis Tool
 
 *CardioMetrics is a modern desktop application designed to analyze cardiovascular risk using machine learning algorithms. It provides meaningful health insights by processing clinical data through a user-friendly interface.*
+
+ <p align="center"><a href="https://cardiometrics-core.streamlit.app">
+    <img src="https://img.shields.io/badge/CardioMetrics-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white" height="55" align="center" alt="Streamlit">
+</a></p>
+
 ---
 📺 Demo
 ---
