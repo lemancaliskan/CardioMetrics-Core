@@ -162,3 +162,9 @@ Contributions are what make the open-source community such an amazing place to l
 ⚠️ Medical Disclaimer
 ---
 This software is for informational purposes only. The results provided do not constitute a formal medical diagnosis. Always consult with a professional healthcare provider before making any medical decisions.
+
+---
+⚖️ License
+---
+This project is licensed under the MIT License. See the ``LICENSE`` file for more details.
+
